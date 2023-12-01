@@ -72,7 +72,7 @@ For starting translations in a new language:
 
 - Employ `./translations.sh new xx`, replacing `xx` with your language code. This action generates a language file.
 - For updating the `xx.po` file, use `./translations.sh xx`.
-- Avoid the above command if the `xx.po` file already exists (which means you are not initiating a new translation).
+- Avoid the above command if the `xx.po` file already exists. (which means you are not initiating a new translation).
 
 ## The Authors
 
